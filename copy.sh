@@ -12,4 +12,4 @@ cp ../../private/flashggfit/CMSSW_10_2_13/src/flashggFinalFit/Signal/ALP_SigMode
 
 cp ../../private/flashggfit/CMSSW_10_2_13/src/flashggFinalFit/Background/ALP_BkgModel_param_UL/fit_results_run2/6/CMS-HGG_mva_13TeV_multipdf.root .
 
-cp ../../private/flashggfit/CMSSW_10_2_13/src/flashggFinalFit/Signal/ALP_SigModel_param_UL/fit_results_runII/M11/datacard_ALPmass11.txt .
+cp ../../private/flashggfit/CMSSW_10_2_13/src/flashggFinalFit/Signal/ALP_SigModel_param_UL/fit_results_runII/M6/datacard_ALPmass6.txt .
